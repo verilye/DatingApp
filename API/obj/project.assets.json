@@ -1762,11 +1762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\conno\\Desktop\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\conno\\Desktop\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\conno\\Desktop\\DatingApp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\conno\\Desktop\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\conno\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\conno\\Desktop\\DatingApp\\API\\obj\\",
+      "outputPath": "C:\\Users\\conno\\Desktop\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\conno\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1838,7 +1838,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
