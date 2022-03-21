@@ -62,3 +62,5 @@ C:\Users\conno\Desktop\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Pr
 C:\Users\conno\Desktop\DatingApp\API\bin\Debug\net6.0\Data\UserSeedData.json
 C:\Users\conno\Desktop\DatingApp\API\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\conno\Desktop\DatingApp\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\conno\Desktop\DatingApp\API\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\conno\Desktop\DatingApp\API\bin\Debug\net6.0\Newtonsoft.Json.dll
